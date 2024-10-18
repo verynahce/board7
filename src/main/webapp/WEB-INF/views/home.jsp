@@ -28,6 +28,8 @@
 	${sessionScope.login.username}님 환영합니다<br>
 	당신의 가입일은 ${sessionScope.login.regdate}입니다<br>
 	<a href="/Users/Logout">로그아웃</a>
+	
+	<h2> 환영합니다</h2>
 	</div>
   </main>	
 </body>
